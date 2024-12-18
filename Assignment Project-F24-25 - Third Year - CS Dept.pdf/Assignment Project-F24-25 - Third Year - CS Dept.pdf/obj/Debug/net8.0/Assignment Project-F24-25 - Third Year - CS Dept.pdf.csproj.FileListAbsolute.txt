@@ -1,0 +1,14 @@
+D:\aksdk\Alog\Assignment Project-F24-25 - Third Year - CS Dept.pdf\Assignment Project-F24-25 - Third Year - CS Dept.pdf\bin\Debug\net8.0\Assignment Project-F24-25 - Third Year - CS Dept.pdf.exe
+D:\aksdk\Alog\Assignment Project-F24-25 - Third Year - CS Dept.pdf\Assignment Project-F24-25 - Third Year - CS Dept.pdf\bin\Debug\net8.0\Assignment Project-F24-25 - Third Year - CS Dept.pdf.deps.json
+D:\aksdk\Alog\Assignment Project-F24-25 - Third Year - CS Dept.pdf\Assignment Project-F24-25 - Third Year - CS Dept.pdf\bin\Debug\net8.0\Assignment Project-F24-25 - Third Year - CS Dept.pdf.runtimeconfig.json
+D:\aksdk\Alog\Assignment Project-F24-25 - Third Year - CS Dept.pdf\Assignment Project-F24-25 - Third Year - CS Dept.pdf\bin\Debug\net8.0\Assignment Project-F24-25 - Third Year - CS Dept.pdf.dll
+D:\aksdk\Alog\Assignment Project-F24-25 - Third Year - CS Dept.pdf\Assignment Project-F24-25 - Third Year - CS Dept.pdf\bin\Debug\net8.0\Assignment Project-F24-25 - Third Year - CS Dept.pdf.pdb
+D:\aksdk\Alog\Assignment Project-F24-25 - Third Year - CS Dept.pdf\Assignment Project-F24-25 - Third Year - CS Dept.pdf\obj\Debug\net8.0\Assignment Project-F24-25 - Third Year - CS Dept.pdf.GeneratedMSBuildEditorConfig.editorconfig
+D:\aksdk\Alog\Assignment Project-F24-25 - Third Year - CS Dept.pdf\Assignment Project-F24-25 - Third Year - CS Dept.pdf\obj\Debug\net8.0\Assignment Project-F24-25 - Third Year - CS Dept.pdf.AssemblyInfoInputs.cache
+D:\aksdk\Alog\Assignment Project-F24-25 - Third Year - CS Dept.pdf\Assignment Project-F24-25 - Third Year - CS Dept.pdf\obj\Debug\net8.0\Assignment Project-F24-25 - Third Year - CS Dept.pdf.AssemblyInfo.cs
+D:\aksdk\Alog\Assignment Project-F24-25 - Third Year - CS Dept.pdf\Assignment Project-F24-25 - Third Year - CS Dept.pdf\obj\Debug\net8.0\Assignment Project-F24-25 - Third Year - CS Dept.pdf.csproj.CoreCompileInputs.cache
+D:\aksdk\Alog\Assignment Project-F24-25 - Third Year - CS Dept.pdf\Assignment Project-F24-25 - Third Year - CS Dept.pdf\obj\Debug\net8.0\Assignment Project-F24-25 - Third Year - CS Dept.pdf.dll
+D:\aksdk\Alog\Assignment Project-F24-25 - Third Year - CS Dept.pdf\Assignment Project-F24-25 - Third Year - CS Dept.pdf\obj\Debug\net8.0\refint\Assignment Project-F24-25 - Third Year - CS Dept.pdf.dll
+D:\aksdk\Alog\Assignment Project-F24-25 - Third Year - CS Dept.pdf\Assignment Project-F24-25 - Third Year - CS Dept.pdf\obj\Debug\net8.0\Assignment Project-F24-25 - Third Year - CS Dept.pdf.pdb
+D:\aksdk\Alog\Assignment Project-F24-25 - Third Year - CS Dept.pdf\Assignment Project-F24-25 - Third Year - CS Dept.pdf\obj\Debug\net8.0\Assignment Project-F24-25 - Third Year - CS Dept.pdf.genruntimeconfig.cache
+D:\aksdk\Alog\Assignment Project-F24-25 - Third Year - CS Dept.pdf\Assignment Project-F24-25 - Third Year - CS Dept.pdf\obj\Debug\net8.0\ref\Assignment Project-F24-25 - Third Year - CS Dept.pdf.dll
